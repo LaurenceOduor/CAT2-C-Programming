@@ -4,6 +4,7 @@ Reg No:CT101/G/26674/25
 Description:C program that request the user to enter hours worked ,hourly wage and print gross pay, taxes, and net pay
 */
 
+#include<stdio.h>
 int main(){
 	
 	float hours,rate,gross_pay,taxes,net_pay;
@@ -32,4 +33,5 @@ int main(){
 	
 	return 0;
 	
+
 }
